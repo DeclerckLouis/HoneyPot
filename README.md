@@ -1,2 +1,2 @@
 # HoneyPot
-Attempt at making a container-like honeypot (runnign in kubernetes)
+Attempt at making a container-like honeypot (running in kubernetes)
